@@ -1,1 +1,1 @@
-[![My Skills](https://skillicons.dev/icons?i=Lua,Arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=lua,arduino)](https://skillicons.dev)
