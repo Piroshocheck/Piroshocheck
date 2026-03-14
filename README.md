@@ -31,7 +31,7 @@ So feel free to contact me!'
 
 
 ## My Skill Set  
-<table background='gold'><tr><td valign="top"  ">
+<table background='gold'><tr><td valign="top" max-height=10%  ">
 <img
   src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png"
   style = "max-width: 30%;"
