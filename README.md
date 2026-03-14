@@ -32,7 +32,7 @@ So feel free to contact me!'
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
-<a target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="50" /></a>  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="50" />  
 
   
 </div>
