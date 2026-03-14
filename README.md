@@ -32,6 +32,12 @@ So feel free to contact me!'
 
 ## My Skill Set  
 <table background='gold'><tr><td valign="top" width="33% ">
+<div align="center" border-radius=15px>  
+<img
+  src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+   /> 
+</div>
+  
 </td><td valign="top" width="33%">
 <img
   src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/250px-Lua-Logo.svg.png"
