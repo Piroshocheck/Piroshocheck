@@ -33,7 +33,7 @@ So feel free to contact me!'
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-<div align="center">  
+<div align="center" border-radius=15px>  
 <img
   class="fit-picture"
   src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
