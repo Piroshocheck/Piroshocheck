@@ -31,18 +31,18 @@ So feel free to contact me!'
 
 
 ## My Skill Set  
-<table background='gold'><tr><td valign="top" width="1% ">
+<table background='gold'><tr><td valign="top"  ">
 <img
   src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png"
   style = "max-width: 30%;"
   alt="Grapefruit slice atop a pile of other slices" />
 
-</td><td valign="top" width="2%">
+</td><td valign="top">
 <img
   src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png"
   alt="Grapefruit slice atop a pile of other slices" />
 
-</td><td valign="top" width="3%">
+</td><td valign="top">
 <img
   src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/960px-Arduino_IDE_logo.svg.png"
    /> 
