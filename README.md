@@ -30,23 +30,29 @@ So feel free to contact me!'
 <br/>  
 
 
+<br/>  
+
+
 ## My Skill Set  
-<table background='gold'><tr><td valign="top" width = 15%  ">
-<img
-  src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png"
-  style = "max-width: 30%;"
-  alt="Grapefruit slice atop a pile of other slices" />
+<table><tr><td valign="top" width="33%">
 
-</td><td valign="top">
-<img
-  src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png"
-  alt="Grapefruit slice atop a pile of other slices" />
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="50" /></a>  
+<a href="https://www.openui5.org/" target="_blank"><img style="margin: 10px" src="https://marinachavarria.netlify.app/assets/img/icons/lua.png" height="50" /></a>  
+<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/960px-Arduino_IDE_logo.svg.png" alt="Angular" height="50" /></a>  
+</div>
 
-</td><td valign="top">
-<img
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/960px-Arduino_IDE_logo.svg.png"
-   /> 
+</td><td valign="top" width="33%">
+
+
+
+</td><td valign="top" width="33%">
+
+
+
 </td></tr></table>  
+
+<br/>  
 
 
 
