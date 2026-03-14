@@ -32,11 +32,7 @@ So feel free to contact me!'
 
 ## My Skill Set  
 <table background='gold'><tr><td valign="top" width="1% ">
-  <img
-  class="fit-picture"
-  stlye="max-width=30%;"
-  src="https://marinachavarria.netlify.app/assets/img/icons/lua.png"
-   /> 
+  <img src="https://camo.githubusercontent.com/363586646528340fcc8a39f31e37b8f9cf0efcf8bece0d019e8204bad445879c/68747470733a2f2f6d6172696e616368617661727269612e6e65746c6966792e6170702f6173736574732f696d672f69636f6e732f6c75612e706e67" data-canonical-src="https://marinachavarria.netlify.app/assets/img/icons/lua.png" style="max-width: 30%;">
 </td><td valign="top" width="2%">
 <img
   class="fit-picture"
