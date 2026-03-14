@@ -38,11 +38,11 @@ So feel free to contact me!'
 </div>
 
 </td><td valign="top" width="33%">
-<a  target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/960px-Arduino_IDE_logo.svg.png" alt="Angular" height="50" /></a>
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/960px-Arduino_IDE_logo.svg.png" alt="Angular" height="50" />
 
 
 </td><td valign="top" width="33%">
-<a  target="_blank"><img style="margin: 10px" src="https://marinachavarria.netlify.app/assets/img/icons/lua.png" height="50" /></a>  
+<img style="margin: 10px" src="https://marinachavarria.netlify.app/assets/img/icons/lua.png" height="50" /> 
 
 
 </td></tr></table>  
