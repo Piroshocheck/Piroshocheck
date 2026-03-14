@@ -31,7 +31,7 @@ So feel free to contact me!'
 
 
 ## My Skill Set  
-<table border-radius=15px><tr><td valign="top" width="33% ">
+<table background='gold'><tr><td valign="top" width="33% ">
 
 <div align="center" border-radius=15px>  
 <img
