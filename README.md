@@ -39,8 +39,9 @@ So feel free to contact me!'
 </td><td valign="top" width="33%">
 <img
   class="fit-picture"
-  src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
-   /> 
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/960px-Arduino_IDE_logo.svg.png"
+  alt="Grapefruit slice atop a pile of other slices" />
+
 </td><td valign="top" width="33%">
 <img
   class="fit-picture"
