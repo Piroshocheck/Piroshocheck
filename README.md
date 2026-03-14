@@ -32,17 +32,17 @@ So feel free to contact me!'
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="50" /></a>  
+<a target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="50" /></a>  
 
   
 </div>
 
 </td><td valign="top" width="33%">
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/960px-Arduino_IDE_logo.svg.png" alt="Angular" height="50" /></a>
+<a  target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/960px-Arduino_IDE_logo.svg.png" alt="Angular" height="50" /></a>
 
 
 </td><td valign="top" width="33%">
-<a href="https://www.openui5.org/" target="_blank"><img style="margin: 10px" src="https://marinachavarria.netlify.app/assets/img/icons/lua.png" height="50" /></a>  
+<a  target="_blank"><img style="margin: 10px" src="https://marinachavarria.netlify.app/assets/img/icons/lua.png" height="50" /></a>  
 
 
 </td></tr></table>  
