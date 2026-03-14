@@ -34,7 +34,10 @@ So feel free to contact me!'
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
-<img style="margin: 10px" background-color = #0000000 src="[[[https://profilinator.rishav.dev/skills-assets/python-original.svg](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)] height="50" /></img>  
+<img
+  class="fit-picture"
+  src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+  alt="Grapefruit slice atop a pile of other slices" /> 
 </div>
 
 </td><td valign="top" width="33%">
