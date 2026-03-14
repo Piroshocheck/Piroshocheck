@@ -29,7 +29,7 @@ So feel free to contact me!'
 
 
 ## My Skill Set  
-<table style="border-radius:15%;"><tr><td valign="top" width="33%">
+<table align = "center"><tr><td valign="top" width="33%">
 
 <div align="center">  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="50" />  
