@@ -36,22 +36,10 @@ So feel free to contact me!'
 <img
   src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/250px-Lua-Logo.svg.png"
    /> 
-  
-<div align="center" border-radius=15px>  
-<img
-  src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
-   /> 
-</div>
-
 </td><td valign="top" width="33%">
 <img
   src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/960px-Arduino_IDE_logo.svg.png"
    /> 
-
-
-
-
-
 </td></tr></table>  
 
 
