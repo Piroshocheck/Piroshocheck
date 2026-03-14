@@ -34,7 +34,7 @@ So feel free to contact me!'
 <table background='gold'><tr><td valign="top" width="1% ">
   <img
   class="fit-picture"
-  stlye="max-width=30%"
+  stlye="max-width=30%;"
   src="https://marinachavarria.netlify.app/assets/img/icons/lua.png"
    /> 
 </td><td valign="top" width="2%">
