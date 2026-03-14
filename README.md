@@ -1,46 +1,90 @@
-# Hey there!
-My name is Dmitriy, im 15!
-## My Skills
-[![My Skills](https://skillicons.dev/icons?i=lua,arduino,python)](https://skillicons.dev)
+<div align="center">
+<img src="https://cdn.7tv.app/emote/01GWKRZ68R000A2R0P3QXVDA12/4x.avif" align="center" style="width: 100%" />
+</div>  
+  
 
-Programmer = {
-
-first_name = 'Dima'
-
-age: 16
-
-country: 'Russia (dream to relocate)'
-
-language:  ['Russian','English']
-
-hobby:  ['programming','pc games','gamedev']
-
-skills:  ['pro gamer 😎', '5 years of Roblox Studio experience','2 years of Python experience',
-
-'70% of knowledge about developing telegram and discord bots','I am a not vibe coder(wow!)']
-
-current_job: None
-
-bio:'Hey there! My name is Dima! 
-
+### About me
+Hey there! My name is Dima! 
 Im a 16 yo bot creator(Telegram, Discord) and gamedev (Roblox Studio - 5 years and newbie in Unity).
-
 So im here to help reach you something incredible!
-
 I started learn IT at age of 11. Its was a just Roblox toolbox trash and 'Hello world' in python
-
 but nowadays code is my second home 😎.
-
 Need a cool bot turnkey or Middle coder for your Roblox start up?
-
 So im here to try help you! And I can be unstoppable if I REALLY liked your idea!
-
 So feel free to contact me!'
+  
+  
 
-price: 'I set price depended on task what I should do. Price usually starts at $60.'
-payment_methods: 'I accept Russian rubles and USDT crypto'
-Contacts: '@pineapplefucker'
+- 🔭 I’m currently working on improving myself skills by little projects  
+  
 
-github: ''
-}
+- 🌱 I’m currently learning C# and Kotlin(rather)  
+  
 
+- ❓ Ask me about anything related to LUA. I try to help you  
+  
+
+- ✨ My dream is to move to Serbia. **I REALLY LIKE THIS COUNTRY!1!!**  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/Piroshocheck" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/@https://www.youtube.com/@Flaemeee" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Piroshocheck&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+  
+
+<br/>  
+
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+
+<br/>  
+
+  
+
+<br/>  
+
+<div align="center"></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
