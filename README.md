@@ -34,7 +34,7 @@ So feel free to contact me!'
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
-<img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/python-original.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png)"  height="50" /></a>  
+<img style="margin: 10px" src="[[https://profilinator.rishav.dev/skills-assets/python-original.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png](https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-svg-download-png-3030224.png?f=webp))"  height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
