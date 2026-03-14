@@ -39,13 +39,11 @@ So feel free to contact me!'
 
 </td><td valign="top" width="2%">
 <img
-
   src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png"
   alt="Grapefruit slice atop a pile of other slices" />
 
 </td><td valign="top" width="3%">
 <img
-
   src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/960px-Arduino_IDE_logo.svg.png"
    /> 
 </td></tr></table>  
