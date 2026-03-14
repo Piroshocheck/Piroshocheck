@@ -34,7 +34,7 @@ So feel free to contact me!'
 <table background='gold'><tr><td valign="top" width="1% ">
   <img
   class="fit-picture"
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/250px-Lua-Logo.svg.png"
+  src="https://marinachavarria.netlify.app/assets/img/icons/lua.png"
    /> 
 </td><td valign="top" width="2%">
 <img
