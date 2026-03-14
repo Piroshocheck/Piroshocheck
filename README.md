@@ -35,7 +35,6 @@ So feel free to contact me!'
   <img
   class="fit-picture"
   stlye="max-width=30%"
-  
   src="https://marinachavarria.netlify.app/assets/img/icons/lua.png"
    /> 
 </td><td valign="top" width="2%">
