@@ -37,19 +37,28 @@ So feel free to contact me!'
 <img
   class="fit-picture"
   src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
-  alt="Grapefruit slice atop a pile of other slices" /> 
+   /> 
 </div>
 
 </td><td valign="top" width="33%">
-
+<img
+  class="fit-picture"
+  src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+   /> 
 
 
 </td><td valign="top" width="33%">
-
+<img
+  class="fit-picture"
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/250px-Lua-Logo.svg.png"
+   /> 
 
 
 </td></tr></table>  
-
+<img
+  class="fit-picture"
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/250px-Lua-Logo.svg.png"
+   /> 
 <br/>  
 
 
